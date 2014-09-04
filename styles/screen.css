@@ -10,6 +10,11 @@
     color: white;
 }
 
+.slide.shout.up h1	{
+	font-size: 25px;
+    color: white;
+}
+
 .slide.shout.up{
    background-color: orangered;
 }
