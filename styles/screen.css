@@ -7,7 +7,12 @@
 
 .slide.shout.up table	{
 	font-size: 50px;
-    color: white;
+    	color: white;
+	border: 5px solid;
+}
+
+.slide.shout.up td	{
+	border: 5px solid;
 }
 
 .slide.shout.up h1	{
